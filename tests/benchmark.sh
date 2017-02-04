@@ -50,3 +50,8 @@ done
 
 rm *ka.txt
 rm *kab.txt
+
+gnuplot plot_png.gp
+gnuplot plot_tex.gp
+
+rm as.dat abs.dat
